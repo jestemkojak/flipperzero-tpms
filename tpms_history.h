@@ -7,7 +7,6 @@
 #include <lib/subghz/types.h>
 #include <math.h>
 
-
 typedef struct TPMSHistory TPMSHistory;
 
 /** History state add key */

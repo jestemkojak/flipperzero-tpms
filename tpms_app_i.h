@@ -14,13 +14,11 @@
 #include <gui/view_dispatcher.h>
 #include <notification/notification_messages.h>
 
-
 #include <lib/subghz/receiver.h>
 #include <lib/subghz/registry.h>
 #include <lib/subghz/subghz_setting.h>
 #include <lib/subghz/subghz_worker.h>
 #include <lib/subghz/transmitter.h>
-
 
 #include "helpers/radio_device_loader.h"
 
